@@ -1,0 +1,6 @@
+{
+  "name": "Pathfind Security Parsing Engine",
+  "description": "Convert unstructured entry-level security analyst job postings into structured security domain taxonomies, ATS keyword priorities, and custom hands-on home lab blueprints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
